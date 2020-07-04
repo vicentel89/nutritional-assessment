@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/nutritional-assessment/static/css/main.b619e870.chunk.css",
+    "main.js": "/nutritional-assessment/static/js/main.f04306b8.chunk.js",
+    "main.js.map": "/nutritional-assessment/static/js/main.f04306b8.chunk.js.map",
+    "runtime-main.js": "/nutritional-assessment/static/js/runtime-main.24fa380a.js",
+    "runtime-main.js.map": "/nutritional-assessment/static/js/runtime-main.24fa380a.js.map",
+    "static/js/2.038ba49e.chunk.js": "/nutritional-assessment/static/js/2.038ba49e.chunk.js",
+    "static/js/2.038ba49e.chunk.js.map": "/nutritional-assessment/static/js/2.038ba49e.chunk.js.map",
+    "static/css/3.533756cf.chunk.css": "/nutritional-assessment/static/css/3.533756cf.chunk.css",
+    "static/js/3.077a8bfb.chunk.js": "/nutritional-assessment/static/js/3.077a8bfb.chunk.js",
+    "static/js/3.077a8bfb.chunk.js.map": "/nutritional-assessment/static/js/3.077a8bfb.chunk.js.map",
+    "index.html": "/nutritional-assessment/index.html",
+    "precache-manifest.72e6881f4739ac6baf49eb93e580bf10.js": "/nutritional-assessment/precache-manifest.72e6881f4739ac6baf49eb93e580bf10.js",
+    "service-worker.js": "/nutritional-assessment/service-worker.js",
+    "static/css/3.533756cf.chunk.css.map": "/nutritional-assessment/static/css/3.533756cf.chunk.css.map",
+    "static/css/main.b619e870.chunk.css.map": "/nutritional-assessment/static/css/main.b619e870.chunk.css.map",
+    "static/js/2.038ba49e.chunk.js.LICENSE.txt": "/nutritional-assessment/static/js/2.038ba49e.chunk.js.LICENSE.txt",
+    "static/media/BMIInfoGraphRail.svg": "/nutritional-assessment/static/media/BMIInfoGraphRail.5bd47d7e.svg",
+    "static/media/BMIResultIcon.svg": "/nutritional-assessment/static/media/BMIResultIcon.ae4689bd.svg",
+    "static/media/calorieExpenditureIcon.svg": "/nutritional-assessment/static/media/calorieExpenditureIcon.1bf8cfef.svg",
+    "static/media/calorieExpenditureMeter.svg": "/nutritional-assessment/static/media/calorieExpenditureMeter.6b52c4e7.svg",
+    "static/media/logo.svg": "/nutritional-assessment/static/media/logo.47f63ea1.svg",
+    "static/media/weightRangeIcon.svg": "/nutritional-assessment/static/media/weightRangeIcon.f3cd90a6.svg",
+    "static/media/weightRangeInfoGraphRail.svg": "/nutritional-assessment/static/media/weightRangeInfoGraphRail.50cb923b.svg",
+    "static/media/weightRangeInfoGraphThumbNormal.svg": "/nutritional-assessment/static/media/weightRangeInfoGraphThumbNormal.16534622.svg",
+    "static/media/weightRangeInfoGraphThumbOver.svg": "/nutritional-assessment/static/media/weightRangeInfoGraphThumbOver.46f78c92.svg",
+    "static/media/weightRangeInfoGraphThumbOverweight.svg": "/nutritional-assessment/static/media/weightRangeInfoGraphThumbOverweight.eef3cdca.svg",
+    "static/media/weightRangeInfoGraphThumbUnder.svg": "/nutritional-assessment/static/media/weightRangeInfoGraphThumbUnder.14dc1694.svg",
+    "static/media/weightResultIcon.svg": "/nutritional-assessment/static/media/weightResultIcon.3850a044.svg",
+    "static/media/weightResultInfoGraphNormal.svg": "/nutritional-assessment/static/media/weightResultInfoGraphNormal.5d1713ea.svg",
+    "static/media/weightResultInfoGraphOver.svg": "/nutritional-assessment/static/media/weightResultInfoGraphOver.b084ce1c.svg",
+    "static/media/weightResultInfoGraphUnder.svg": "/nutritional-assessment/static/media/weightResultInfoGraphUnder.5b4efd30.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fa380a.js",
+    "static/js/2.038ba49e.chunk.js",
+    "static/css/main.b619e870.chunk.css",
+    "static/js/main.f04306b8.chunk.js"
+  ]
+}
